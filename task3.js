@@ -9,9 +9,6 @@ var url = require('url');
 // to parse html
 var cheerio = require('cheerio');
 
-// flow control module
-var async = require('async');
-
 // to create promises
 var rsvp = require('rsvp');
 
